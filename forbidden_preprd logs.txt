@@ -1,0 +1,3653 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "WebInspector",
+      "version": "537.36"
+    },
+    "pages": [],
+    "entries": [
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "c._end",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 35,
+                "columnNumber": 13340
+              },
+              {
+                "functionName": "c.end",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 35,
+                "columnNumber": 12081
+              },
+              {
+                "functionName": "",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 35,
+                "columnNumber": 25125
+              },
+              {
+                "functionName": "t._execute",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 28126
+              },
+              {
+                "functionName": "i._resolveFromExecutor",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22097
+              },
+              {
+                "functionName": "i",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 14455
+              },
+              {
+                "functionName": "r.callApi",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 35,
+                "columnNumber": 25097
+              },
+              {
+                "functionName": "Cn.getMsgVpnQueuesWithHttpInfo",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 40,
+                "columnNumber": 20346
+              },
+              {
+                "functionName": "Cn.getMsgVpnQueues",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 40,
+                "columnNumber": 20460
+              },
+              {
+                "functionName": "",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 20,
+                "columnNumber": 3537
+              },
+              {
+                "functionName": "t._execute",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 28126
+              },
+              {
+                "functionName": "i._resolveFromExecutor",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22097
+              },
+              {
+                "functionName": "i",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 14455
+              },
+              {
+                "functionName": "e.getEntities",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 20,
+                "columnNumber": 2944
+              },
+              {
+                "functionName": "e.getObjectList",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 17,
+                "columnNumber": 30059
+              },
+              {
+                "functionName": "",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 7,
+                "columnNumber": 4062
+              },
+              {
+                "functionName": "r",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 3257
+              },
+              {
+                "functionName": "",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 4377
+              },
+              {
+                "functionName": "e.<computed>",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 3436
+              },
+              {
+                "functionName": "i",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 6,
+                "columnNumber": 15004
+              },
+              {
+                "functionName": "",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 6,
+                "columnNumber": 15104
+              },
+              {
+                "functionName": "r",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 6,
+                "columnNumber": 17219
+              },
+              {
+                "functionName": "i._settlePromiseFromHandler",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22500
+              },
+              {
+                "functionName": "i._settlePromise",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 23303
+              },
+              {
+                "functionName": "i._settlePromiseCtx",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 23811
+              },
+              {
+                "functionName": "r._drainQueue",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 12669
+              },
+              {
+                "functionName": "r._drainQueues",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 12747
+              },
+              {
+                "functionName": "drainQueues",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 10776
+              },
+              {
+                "functionName": "",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 3,
+                "columnNumber": 545
+              },
+              {
+                "functionName": "",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 3,
+                "columnNumber": 654
+              },
+              {
+                "functionName": "c",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 1,
+                "columnNumber": 24483
+              }
+            ],
+            "parent": {
+              "description": "characterData",
+              "callFrames": [
+                {
+                  "functionName": "n",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 1,
+                  "columnNumber": 24684
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 1,
+                  "columnNumber": 24852
+                },
+                {
+                  "functionName": "T",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 3,
+                  "columnNumber": 360
+                },
+                {
+                  "functionName": "then",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 3,
+                  "columnNumber": 2031
+                },
+                {
+                  "functionName": "r",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 6,
+                  "columnNumber": 6575
+                },
+                {
+                  "functionName": "r._queueTick",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 4,
+                  "columnNumber": 12932
+                },
+                {
+                  "functionName": "o",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 4,
+                  "columnNumber": 10926
+                },
+                {
+                  "functionName": "h.hasDevTools.r.invoke",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 4,
+                  "columnNumber": 12186
+                },
+                {
+                  "functionName": "i._then",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 5,
+                  "columnNumber": 18541
+                },
+                {
+                  "functionName": "i.then",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 5,
+                  "columnNumber": 16416
+                },
+                {
+                  "functionName": "t.loadUrl",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 13,
+                  "columnNumber": 25064
+                },
+                {
+                  "functionName": "t._loadUrl",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 11,
+                  "columnNumber": 21512
+                },
+                {
+                  "functionName": "t.navigate",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 11,
+                  "columnNumber": 20386
+                },
+                {
+                  "functionName": "e.navigate",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 13,
+                  "columnNumber": 9743
+                },
+                {
+                  "functionName": "e.navigateToRoute",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 13,
+                  "columnNumber": 9883
+                },
+                {
+                  "functionName": "e.goBack",
+                  "scriptId": "12",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                  "lineNumber": 6,
+                  "columnNumber": 8337
+                },
+                {
+                  "functionName": "e.handleCancel",
+                  "scriptId": "12",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                  "lineNumber": 6,
+                  "columnNumber": 8157
+                },
+                {
+                  "functionName": "e.cancel",
+                  "scriptId": "12",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                  "lineNumber": 6,
+                  "columnNumber": 5500
+                },
+                {
+                  "functionName": "t.evaluate",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 8,
+                  "columnNumber": 15992
+                },
+                {
+                  "functionName": "e.callSource",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 10,
+                  "columnNumber": 18123
+                },
+                {
+                  "functionName": "e.handleEvent",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 10,
+                  "columnNumber": 18283
+                },
+                {
+                  "functionName": "e.handleEvent",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 9,
+                  "columnNumber": 5793
+                }
+              ]
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "xhr",
+        "cache": {},
+        "connection": "6153",
+        "request": {
+          "method": "GET",
+          "url": "https://managementconsole-solace-pprd.alstom.hub/SEMP/v2/__private_monitor__/msgVpns/alstom-pre-prod/queues?select=msgVpnName,queueName,ingressEnabled,egressEnabled,accessType,eventMsgSpoolUsageThreshold,msgs.count,msgSpoolUsage,maxMsgSpoolUsage,bindCount,replayState,durable&count=20",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "application/json"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.9"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Cookie",
+              "value": "Session=JsTrmHs1iGnQr0F0l6BP8H-_xnUBnuJwqYgwJ4Heaw8"
+            },
+            {
+              "name": "Host",
+              "value": "managementconsole-solace-pprd.alstom.hub"
+            },
+            {
+              "name": "Referer",
+              "value": "https://managementconsole-solace-pprd.alstom.hub/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-origin"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "X-Requested-With",
+              "value": "XMLHttpRequest"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "select",
+              "value": "msgVpnName,queueName,ingressEnabled,egressEnabled,accessType,eventMsgSpoolUsageThreshold,msgs.count,msgSpoolUsage,maxMsgSpoolUsage,bindCount,replayState,durable"
+            },
+            {
+              "name": "count",
+              "value": "20"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "Session",
+              "value": "JsTrmHs1iGnQr0F0l6BP8H-_xnUBnuJwqYgwJ4Heaw8",
+              "path": "/SEMP",
+              "domain": "managementconsole-solace-pprd.alstom.hub",
+              "expires": "2024-01-05T16:26:37.392Z",
+              "httpOnly": true,
+              "secure": true,
+              "sameSite": "Strict"
+            }
+          ],
+          "headersSize": 935,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Cache-Control",
+              "value": "no-store"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Content-Security-Policy",
+              "value": "default-src 'self'; object-src 'none'; frame-ancestors 'none'; form-action 'self'; upgrade-insecure-requests"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Date",
+              "value": "Wed, 06 Dec 2023 16:35:18 GMT"
+            },
+            {
+              "name": "Server",
+              "value": ""
+            },
+            {
+              "name": "Strict-Transport-Security",
+              "value": "max-age=31536000"
+            },
+            {
+              "name": "Transfer-Encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 7316,
+            "mimeType": "application/json",
+            "compression": 6583,
+            "text": "{\n    \"collections\":[\n        {\n            \"msgs\":{\n                \"count\":8266\n            }\n        },\n        {\n            \"msgs\":{\n                \"count\":15\n            }\n        },\n        {\n            \"msgs\":{\n                \"count\":0\n            }\n        },\n        {\n            \"msgs\":{\n                \"count\":0\n            }\n        },\n        {\n            \"msgs\":{\n                \"count\":0\n            }\n        },\n        {\n            \"msgs\":{\n                \"count\":340\n            }\n        },\n        {\n            \"msgs\":{\n                \"count\":0\n            }\n        },\n        {\n            \"msgs\":{\n                \"count\":0\n            }\n        },\n        {\n            \"msgs\":{\n                \"count\":340\n            }\n        },\n        {\n            \"msgs\":{\n                \"count\":0\n            }\n        },\n        {\n            \"msgs\":{\n                \"count\":0\n            }\n        },\n        {\n            \"msgs\":{\n                \"count\":0\n            }\n        }\n    ],\n    \"data\":[\n        {\n            \"accessType\":\"non-exclusive\",\n            \"bindCount\":0,\n            \"durable\":true,\n            \"egressEnabled\":false,\n            \"eventMsgSpoolUsageThreshold\":{\n                \"clearPercent\":18,\n                \"setPercent\":25\n            },\n            \"ingressEnabled\":false,\n            \"maxMsgSpoolUsage\":0,\n            \"msgSpoolUsage\":16863941,\n            \"msgVpnName\":\"alstom-pre-prod\",\n            \"queueName\":\"#REPLAY_LOG_replaylog-alstom-pre-prod\"\n        },\n        {\n            \"accessType\":\"non-exclusive\",\n            \"bindCount\":0,\n            \"durable\":true,\n            \"egressEnabled\":false,\n            \"eventMsgSpoolUsageThreshold\":{\n                \"clearPercent\":18,\n                \"setPercent\":25\n            },\n            \"ingressEnabled\":false,\n            \"maxMsgSpoolUsage\":0,\n            \"msgSpoolUsage\":614424,\n            \"msgVpnName\":\"alstom-pre-prod\",\n            \"queueName\":\"#REPLAY_TOPICS_replaylog-alstom-pre-prod\"\n        },\n        {\n            \"accessType\":\"exclusive\",\n            \"bindCount\":2,\n            \"durable\":true,\n            \"egressEnabled\":true,\n            \"eventMsgSpoolUsageThreshold\":{\n                \"clearPercent\":18,\n                \"setPercent\":25\n            },\n            \"ingressEnabled\":true,\n            \"maxMsgSpoolUsage\":5000,\n            \"msgSpoolUsage\":0,\n            \"msgVpnName\":\"alstom-pre-prod\",\n            \"queueName\":\"3PL_APMT_SHIPMENTPREP\"\n        },\n        {\n            \"accessType\":\"exclusive\",\n            \"bindCount\":0,\n            \"durable\":true,\n            \"egressEnabled\":true,\n            \"eventMsgSpoolUsageThreshold\":{\n                \"clearPercent\":18,\n                \"setPercent\":25\n            },\n            \"ingressEnabled\":true,\n            \"maxMsgSpoolUsage\":5000,\n            \"msgSpoolUsage\":0,\n            \"msgVpnName\":\"alstom-pre-prod\",\n            \"queueName\":\"3PL_DACHSER_SHIPMENTPREP\",\n            \"replayState\":\"complete\"\n        },\n        {\n            \"accessType\":\"exclusive\",\n            \"bindCount\":2,\n            \"durable\":true,\n            \"egressEnabled\":true,\n            \"eventMsgSpoolUsageThreshold\":{\n                \"clearPercent\":18,\n                \"setPercent\":25\n            },\n            \"ingressEnabled\":true,\n            \"maxMsgSpoolUsage\":5000,\n            \"msgSpoolUsage\":0,\n            \"msgVpnName\":\"alstom-pre-prod\",\n            \"queueName\":\"3PL_IDEA_SHIPMENTPREP\"\n        },\n        {\n            \"accessType\":\"exclusive\",\n            \"bindCount\":0,\n            \"durable\":true,\n            \"egressEnabled\":true,\n            \"eventMsgSpoolUsageThreshold\":{\n                \"clearPercent\":18,\n                \"setPercent\":25\n            },\n            \"ingressEnabled\":true,\n            \"maxMsgSpoolUsage\":5000,\n            \"msgSpoolUsage\":401749,\n            \"msgVpnName\":\"alstom-pre-prod\",\n            \"queueName\":\"Postgres-data\"\n        },\n        {\n            \"accessType\":\"exclusive\",\n            \"bindCount\":0,\n            \"durable\":true,\n            \"egressEnabled\":true,\n            \"eventMsgSpoolUsageThreshold\":{\n                \"clearPercent\":18,\n                \"setPercent\":25\n            },\n            \"ingressEnabled\":true,\n            \"maxMsgSpoolUsage\":5000,\n            \"msgSpoolUsage\":0,\n            \"msgVpnName\":\"alstom-pre-prod\",\n            \"queueName\":\"Q_TEST_ACL_BOOMI_PPRD\"\n        },\n        {\n            \"accessType\":\"exclusive\",\n            \"bindCount\":0,\n            \"durable\":true,\n            \"egressEnabled\":true,\n            \"eventMsgSpoolUsageThreshold\":{\n                \"clearPercent\":18,\n                \"setPercent\":25\n            },\n            \"ingressEnabled\":true,\n            \"maxMsgSpoolUsage\":5000,\n            \"msgSpoolUsage\":0,\n            \"msgVpnName\":\"alstom-pre-prod\",\n            \"queueName\":\"TestBackupRestore\"\n        },\n        {\n            \"accessType\":\"exclusive\",\n            \"bindCount\":0,\n            \"durable\":true,\n            \"egressEnabled\":true,\n            \"eventMsgSpoolUsageThreshold\":{\n                \"clearPercent\":18,\n                \"setPercent\":25\n            },\n            \"ingressEnabled\":true,\n            \"maxMsgSpoolUsage\":5000,\n            \"msgSpoolUsage\":401749,\n            \"msgVpnName\":\"alstom-pre-prod\",\n            \"queueName\":\"ebx_building\"\n        },\n        {\n            \"accessType\":\"exclusive\",\n            \"bindCount\":0,\n            \"durable\":true,\n            \"egressEnabled\":true,\n            \"eventMsgSpoolUsageThreshold\":{\n                \"clearPercent\":18,\n                \"setPercent\":25\n            },\n            \"ingressEnabled\":true,\n            \"maxMsgSpoolUsage\":5000,\n            \"msgSpoolUsage\":0,\n            \"msgVpnName\":\"alstom-pre-prod\",\n            \"queueName\":\"management-queue-debezium\"\n        },\n        {\n            \"accessType\":\"exclusive\",\n            \"bindCount\":0,\n            \"durable\":true,\n            \"egressEnabled\":true,\n            \"eventMsgSpoolUsageThreshold\":{\n                \"clearPercent\":18,\n                \"setPercent\":25\n            },\n            \"ingressEnabled\":true,\n            \"maxMsgSpoolUsage\":5000,\n            \"msgSpoolUsage\":0,\n            \"msgVpnName\":\"alstom-pre-prod\",\n            \"queueName\":\"test\"\n        },\n        {\n            \"accessType\":\"exclusive\",\n            \"bindCount\":0,\n            \"durable\":true,\n            \"egressEnabled\":true,\n            \"eventMsgSpoolUsageThreshold\":{\n                \"clearPercent\":18,\n                \"setPercent\":25\n            },\n            \"ingressEnabled\":true,\n            \"maxMsgSpoolUsage\":5000,\n            \"msgSpoolUsage\":0,\n            \"msgVpnName\":\"alstom-pre-prod\",\n            \"queueName\":\"test1\"\n        }\n    ],\n    \"links\":[\n        {},\n        {},\n        {},\n        {},\n        {},\n        {},\n        {},\n        {},\n        {},\n        {},\n        {},\n        {}\n    ],\n    \"meta\":{\n        \"count\":12,\n        \"request\":{\n            \"method\":\"GET\",\n            \"uri\":\"https://managementconsole-solace-pprd.alstom.hub/SEMP/v2/__private_monitor__/msgVpns/alstom-pre-prod/queues?select=msgVpnName,queueName,ingressEnabled,egressEnabled,accessType,eventMsgSpoolUsageThreshold,msgs.count,msgSpoolUsage,maxMsgSpoolUsage,bindCount,replayState,durable&count=20\"\n        },\n        \"responseCode\":200\n    }\n}"
+          },
+          "redirectURL": "",
+          "headersSize": 468,
+          "bodySize": 733,
+          "_transferSize": 1201,
+          "_error": null
+        },
+        "serverIPAddress": "10.242.54.6",
+        "startedDateTime": "2023-12-06T16:35:17.885Z",
+        "time": 799.4829999999183,
+        "timings": {
+          "blocked": 3.7559999998922575,
+          "dns": 0.009000000000000119,
+          "ssl": 316.433,
+          "connect": 481.757,
+          "send": 0.2370000000000232,
+          "wait": 313.20799999996456,
+          "receive": 0.5160000000614673,
+          "_blocked_queueing": 2.1139999998922576,
+          "_blocked_proxy": 0.6089999999999999
+        }
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "c._end",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 1,
+                "columnNumber": 1573
+              },
+              {
+                "functionName": "c.end",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 1,
+                "columnNumber": 314
+              },
+              {
+                "functionName": "",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 1,
+                "columnNumber": 13357
+              },
+              {
+                "functionName": "t._execute",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 28126
+              },
+              {
+                "functionName": "i._resolveFromExecutor",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22097
+              },
+              {
+                "functionName": "i",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 14455
+              },
+              {
+                "functionName": "r.callApi",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 1,
+                "columnNumber": 13329
+              },
+              {
+                "functionName": "createMsgVpnQueueWithHttpInfo",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 4,
+                "columnNumber": 3388
+              },
+              {
+                "functionName": "createMsgVpnQueue",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 4,
+                "columnNumber": 3507
+              },
+              {
+                "functionName": "",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 20,
+                "columnNumber": 4961
+              },
+              {
+                "functionName": "t._execute",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 28126
+              },
+              {
+                "functionName": "i._resolveFromExecutor",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22097
+              },
+              {
+                "functionName": "i",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 14455
+              },
+              {
+                "functionName": "e.createEntity",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 20,
+                "columnNumber": 4528
+              },
+              {
+                "functionName": "e.createObject",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 18,
+                "columnNumber": 8836
+              },
+              {
+                "functionName": "",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 7,
+                "columnNumber": 26251
+              },
+              {
+                "functionName": "r",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 6,
+                "columnNumber": 17219
+              },
+              {
+                "functionName": "i._settlePromiseFromHandler",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22500
+              },
+              {
+                "functionName": "i._settlePromise",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 23303
+              },
+              {
+                "functionName": "i._fulfillPromises",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 24856
+              },
+              {
+                "functionName": "i._settlePromises",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 25386
+              },
+              {
+                "functionName": "r._drainQueue",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 12686
+              },
+              {
+                "functionName": "r._drainQueues",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 12747
+              },
+              {
+                "functionName": "drainQueues",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 10776
+              },
+              {
+                "functionName": "",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 3,
+                "columnNumber": 545
+              },
+              {
+                "functionName": "",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 3,
+                "columnNumber": 654
+              },
+              {
+                "functionName": "c",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 1,
+                "columnNumber": 24483
+              }
+            ],
+            "parent": {
+              "description": "characterData",
+              "callFrames": [
+                {
+                  "functionName": "n",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 1,
+                  "columnNumber": 24684
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 1,
+                  "columnNumber": 24852
+                },
+                {
+                  "functionName": "T",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 3,
+                  "columnNumber": 360
+                },
+                {
+                  "functionName": "then",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 3,
+                  "columnNumber": 2031
+                },
+                {
+                  "functionName": "r",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 6,
+                  "columnNumber": 6575
+                },
+                {
+                  "functionName": "r._queueTick",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 4,
+                  "columnNumber": 12932
+                },
+                {
+                  "functionName": "s",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 4,
+                  "columnNumber": 10988
+                },
+                {
+                  "functionName": "h.hasDevTools.r.settlePromises",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 4,
+                  "columnNumber": 12309
+                },
+                {
+                  "functionName": "i._fulfill",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 5,
+                  "columnNumber": 24395
+                },
+                {
+                  "functionName": "i._resolveCallback",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 5,
+                  "columnNumber": 21247
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 5,
+                  "columnNumber": 22122
+                },
+                {
+                  "functionName": "o",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 20,
+                  "columnNumber": 22454
+                }
+              ]
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "xhr",
+        "cache": {},
+        "connection": "6153",
+        "request": {
+          "method": "POST",
+          "url": "https://managementconsole-solace-pprd.alstom.hub/SEMP/v2/__private_config__/msgVpns/alstom-pre-prod/queues?select=queueName,msgVpnName",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "application/json"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.9"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "87"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Cookie",
+              "value": "Session=JsTrmHs1iGnQr0F0l6BP8H-_xnUBnuJwqYgwJ4Heaw8"
+            },
+            {
+              "name": "Host",
+              "value": "managementconsole-solace-pprd.alstom.hub"
+            },
+            {
+              "name": "Origin",
+              "value": "https://managementconsole-solace-pprd.alstom.hub"
+            },
+            {
+              "name": "Referer",
+              "value": "https://managementconsole-solace-pprd.alstom.hub/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-origin"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "X-Requested-With",
+              "value": "XMLHttpRequest"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "select",
+              "value": "queueName,msgVpnName"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "Session",
+              "value": "JsTrmHs1iGnQr0F0l6BP8H-_xnUBnuJwqYgwJ4Heaw8",
+              "path": "/SEMP",
+              "domain": "managementconsole-solace-pprd.alstom.hub",
+              "expires": "2024-01-05T16:26:37.392Z",
+              "httpOnly": true,
+              "secure": true,
+              "sameSite": "Strict"
+            }
+          ],
+          "headersSize": 864,
+          "bodySize": 87,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"egressEnabled\":true,\"ingressEnabled\":true,\"permission\":\"consume\",\"queueName\":\"test2\"}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Cache-Control",
+              "value": "no-store"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Content-Security-Policy",
+              "value": "default-src 'self'; object-src 'none'; frame-ancestors 'none'; form-action 'self'; upgrade-insecure-requests"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Date",
+              "value": "Wed, 06 Dec 2023 16:35:33 GMT"
+            },
+            {
+              "name": "Server",
+              "value": ""
+            },
+            {
+              "name": "Strict-Transport-Security",
+              "value": "max-age=31536000"
+            },
+            {
+              "name": "Transfer-Encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 1753,
+            "mimeType": "application/json",
+            "compression": 1155,
+            "text": "{\n    \"data\":{\n        \"accessType\":\"exclusive\",\n        \"consumerAckPropagationEnabled\":true,\n        \"deadMsgQueue\":\"#DEAD_MSG_QUEUE\",\n        \"deliveryCountEnabled\":false,\n        \"deliveryDelay\":0,\n        \"egressEnabled\":true,\n        \"eventBindCountThreshold\":{\n            \"clearPercent\":60,\n            \"setPercent\":80\n        },\n        \"eventMsgSpoolUsageThreshold\":{\n            \"clearPercent\":18,\n            \"setPercent\":25\n        },\n        \"eventRejectLowPriorityMsgLimitThreshold\":{\n            \"clearPercent\":60,\n            \"setPercent\":80\n        },\n        \"ingressEnabled\":true,\n        \"maxBindCount\":1000,\n        \"maxDeliveredUnackedMsgsPerFlow\":10000,\n        \"maxMsgSize\":10000000,\n        \"maxMsgSpoolUsage\":5000,\n        \"maxRedeliveryCount\":0,\n        \"maxTtl\":0,\n        \"msgVpnName\":\"alstom-pre-prod\",\n        \"owner\":\"\",\n        \"permission\":\"consume\",\n        \"queueName\":\"test2\",\n        \"redeliveryEnabled\":true,\n        \"rejectLowPriorityMsgEnabled\":false,\n        \"rejectLowPriorityMsgLimit\":0,\n        \"rejectMsgToSenderOnDiscardBehavior\":\"when-queue-enabled\",\n        \"respectMsgPriorityEnabled\":false,\n        \"respectTtlEnabled\":false\n    },\n    \"links\":{\n        \"subscriptionsUri\":\"https://managementconsole-solace-pprd.alstom.hub/SEMP/v2/__private_config__/msgVpns/alstom-pre-prod/queues/test2/subscriptions\",\n        \"uri\":\"https://managementconsole-solace-pprd.alstom.hub/SEMP/v2/__private_config__/msgVpns/alstom-pre-prod/queues/test2\"\n    },\n    \"meta\":{\n        \"request\":{\n            \"method\":\"POST\",\n            \"uri\":\"https://managementconsole-solace-pprd.alstom.hub/SEMP/v2/__private_config__/msgVpns/alstom-pre-prod/queues?select=queueName,msgVpnName\"\n        },\n        \"responseCode\":200\n    }\n}"
+          },
+          "redirectURL": "",
+          "headersSize": 468,
+          "bodySize": 598,
+          "_transferSize": 1066,
+          "_error": null
+        },
+        "serverIPAddress": "10.242.54.6",
+        "startedDateTime": "2023-12-06T16:35:33.309Z",
+        "time": 271.12799999986237,
+        "timings": {
+          "blocked": 1.9879999998299174,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.16000000000000003,
+          "wait": 268.0480000001118,
+          "receive": 0.931999999920663,
+          "_blocked_queueing": 1.0579999998299172,
+          "_blocked_proxy": 0.634
+        }
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "c._end",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 1,
+                "columnNumber": 1573
+              },
+              {
+                "functionName": "c.end",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 1,
+                "columnNumber": 314
+              },
+              {
+                "functionName": "",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 1,
+                "columnNumber": 13357
+              },
+              {
+                "functionName": "t._execute",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 28126
+              },
+              {
+                "functionName": "i._resolveFromExecutor",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22097
+              },
+              {
+                "functionName": "i",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 14455
+              },
+              {
+                "functionName": "r.callApi",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 1,
+                "columnNumber": 13329
+              },
+              {
+                "functionName": "getMsgVpnQueueWithHttpInfo",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 10,
+                "columnNumber": 17417
+              },
+              {
+                "functionName": "getMsgVpnQueue",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 10,
+                "columnNumber": 17544
+              },
+              {
+                "functionName": "",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 20,
+                "columnNumber": 4346
+              },
+              {
+                "functionName": "t._execute",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 28126
+              },
+              {
+                "functionName": "i._resolveFromExecutor",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22097
+              },
+              {
+                "functionName": "i",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 14455
+              },
+              {
+                "functionName": "e.getEntityDetails",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 20,
+                "columnNumber": 3837
+              },
+              {
+                "functionName": "e.getObjectDetails",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 18,
+                "columnNumber": 1900
+              },
+              {
+                "functionName": "",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 5,
+                "columnNumber": 24908
+              },
+              {
+                "functionName": "r",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 3257
+              },
+              {
+                "functionName": "",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 4377
+              },
+              {
+                "functionName": "e.<computed>",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 3436
+              },
+              {
+                "functionName": "i",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 5,
+                "columnNumber": 20185
+              },
+              {
+                "functionName": "",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 5,
+                "columnNumber": 20285
+              },
+              {
+                "functionName": "r",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 6,
+                "columnNumber": 17219
+              },
+              {
+                "functionName": "i._settlePromiseFromHandler",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22500
+              },
+              {
+                "functionName": "i._settlePromise",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 23303
+              },
+              {
+                "functionName": "i._settlePromiseCtx",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 23811
+              },
+              {
+                "functionName": "r._drainQueue",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 12669
+              },
+              {
+                "functionName": "r._drainQueues",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 12747
+              },
+              {
+                "functionName": "drainQueues",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 10776
+              },
+              {
+                "functionName": "",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 3,
+                "columnNumber": 545
+              },
+              {
+                "functionName": "",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 3,
+                "columnNumber": 654
+              },
+              {
+                "functionName": "c",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 1,
+                "columnNumber": 24483
+              }
+            ],
+            "parent": {
+              "description": "characterData",
+              "callFrames": [
+                {
+                  "functionName": "n",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 1,
+                  "columnNumber": 24684
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 1,
+                  "columnNumber": 24852
+                },
+                {
+                  "functionName": "T",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 3,
+                  "columnNumber": 360
+                },
+                {
+                  "functionName": "then",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 3,
+                  "columnNumber": 2031
+                },
+                {
+                  "functionName": "r",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 6,
+                  "columnNumber": 6575
+                },
+                {
+                  "functionName": "r._queueTick",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 4,
+                  "columnNumber": 12932
+                },
+                {
+                  "functionName": "s",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 4,
+                  "columnNumber": 10988
+                },
+                {
+                  "functionName": "h.hasDevTools.r.settlePromises",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 4,
+                  "columnNumber": 12309
+                },
+                {
+                  "functionName": "i._fulfill",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 5,
+                  "columnNumber": 24395
+                },
+                {
+                  "functionName": "i._resolveCallback",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 5,
+                  "columnNumber": 21247
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 5,
+                  "columnNumber": 22122
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "14",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                  "lineNumber": 1,
+                  "columnNumber": 13487
+                },
+                {
+                  "functionName": "c.callback",
+                  "scriptId": "14",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                  "lineNumber": 0,
+                  "columnNumber": 31399
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "14",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                  "lineNumber": 0,
+                  "columnNumber": 28386
+                },
+                {
+                  "functionName": "n.emit",
+                  "scriptId": "14",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                  "lineNumber": 0,
+                  "columnNumber": 26092
+                },
+                {
+                  "functionName": "t.onreadystatechange",
+                  "scriptId": "14",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                  "lineNumber": 1,
+                  "columnNumber": 665
+                }
+              ],
+              "parent": {
+                "description": "XMLHttpRequest.send",
+                "callFrames": [
+                  {
+                    "functionName": "c._end",
+                    "scriptId": "14",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                    "lineNumber": 1,
+                    "columnNumber": 1573
+                  },
+                  {
+                    "functionName": "c.end",
+                    "scriptId": "14",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                    "lineNumber": 1,
+                    "columnNumber": 314
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "14",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                    "lineNumber": 1,
+                    "columnNumber": 13357
+                  },
+                  {
+                    "functionName": "t._execute",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 4,
+                    "columnNumber": 28126
+                  },
+                  {
+                    "functionName": "i._resolveFromExecutor",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 22097
+                  },
+                  {
+                    "functionName": "i",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 14455
+                  },
+                  {
+                    "functionName": "r.callApi",
+                    "scriptId": "14",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                    "lineNumber": 1,
+                    "columnNumber": 13329
+                  },
+                  {
+                    "functionName": "createMsgVpnQueueWithHttpInfo",
+                    "scriptId": "14",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                    "lineNumber": 4,
+                    "columnNumber": 3388
+                  },
+                  {
+                    "functionName": "createMsgVpnQueue",
+                    "scriptId": "14",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                    "lineNumber": 4,
+                    "columnNumber": 3507
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "12",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                    "lineNumber": 20,
+                    "columnNumber": 4961
+                  },
+                  {
+                    "functionName": "t._execute",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 4,
+                    "columnNumber": 28126
+                  },
+                  {
+                    "functionName": "i._resolveFromExecutor",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 22097
+                  },
+                  {
+                    "functionName": "i",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 14455
+                  },
+                  {
+                    "functionName": "e.createEntity",
+                    "scriptId": "12",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                    "lineNumber": 20,
+                    "columnNumber": 4528
+                  },
+                  {
+                    "functionName": "e.createObject",
+                    "scriptId": "12",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                    "lineNumber": 18,
+                    "columnNumber": 8836
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "12",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                    "lineNumber": 7,
+                    "columnNumber": 26251
+                  },
+                  {
+                    "functionName": "r",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 6,
+                    "columnNumber": 17219
+                  },
+                  {
+                    "functionName": "i._settlePromiseFromHandler",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 22500
+                  },
+                  {
+                    "functionName": "i._settlePromise",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 23303
+                  },
+                  {
+                    "functionName": "i._fulfillPromises",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 24856
+                  },
+                  {
+                    "functionName": "i._settlePromises",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 25386
+                  },
+                  {
+                    "functionName": "r._drainQueue",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 4,
+                    "columnNumber": 12686
+                  },
+                  {
+                    "functionName": "r._drainQueues",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 4,
+                    "columnNumber": 12747
+                  },
+                  {
+                    "functionName": "drainQueues",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 4,
+                    "columnNumber": 10776
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 3,
+                    "columnNumber": 545
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 3,
+                    "columnNumber": 654
+                  },
+                  {
+                    "functionName": "c",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 1,
+                    "columnNumber": 24483
+                  }
+                ],
+                "parent": {
+                  "description": "characterData",
+                  "callFrames": [
+                    {
+                      "functionName": "n",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 1,
+                      "columnNumber": 24684
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 1,
+                      "columnNumber": 24852
+                    },
+                    {
+                      "functionName": "T",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 3,
+                      "columnNumber": 360
+                    },
+                    {
+                      "functionName": "then",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 3,
+                      "columnNumber": 2031
+                    },
+                    {
+                      "functionName": "r",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 6,
+                      "columnNumber": 6575
+                    },
+                    {
+                      "functionName": "r._queueTick",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 4,
+                      "columnNumber": 12932
+                    },
+                    {
+                      "functionName": "s",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 4,
+                      "columnNumber": 10988
+                    },
+                    {
+                      "functionName": "h.hasDevTools.r.settlePromises",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 4,
+                      "columnNumber": 12309
+                    },
+                    {
+                      "functionName": "i._fulfill",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 5,
+                      "columnNumber": 24395
+                    },
+                    {
+                      "functionName": "i._resolveCallback",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 5,
+                      "columnNumber": 21247
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 5,
+                      "columnNumber": 22122
+                    },
+                    {
+                      "functionName": "o",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 20,
+                      "columnNumber": 22454
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "xhr",
+        "cache": {},
+        "connection": "6153",
+        "request": {
+          "method": "GET",
+          "url": "https://managementconsole-solace-pprd.alstom.hub/SEMP/v2/__private_config__/msgVpns/alstom-pre-prod/queues/test2?select=msgVpnName,queueName,ingressEnabled,egressEnabled,accessType,maxMsgSpoolUsage,eventMsgSpoolUsageThreshold,owner,permission,maxBindCount,eventBindCountThreshold,maxMsgSize,maxDeliveredUnackedMsgsPerFlow,deadMsgQueue,deliveryCountEnabled,deliveryDelay,respectMsgPriorityEnabled,respectTtlEnabled,maxTtl,redeliveryEnabled,maxRedeliveryCount,rejectMsgToSenderOnDiscardBehavior,rejectLowPriorityMsgEnabled,rejectLowPriorityMsgLimit,eventRejectLowPriorityMsgLimitThreshold,consumerAckPropagationEnabled",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "application/json"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.9"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Cookie",
+              "value": "Session=JsTrmHs1iGnQr0F0l6BP8H-_xnUBnuJwqYgwJ4Heaw8"
+            },
+            {
+              "name": "Host",
+              "value": "managementconsole-solace-pprd.alstom.hub"
+            },
+            {
+              "name": "Referer",
+              "value": "https://managementconsole-solace-pprd.alstom.hub/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-origin"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "X-Requested-With",
+              "value": "XMLHttpRequest"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "select",
+              "value": "msgVpnName,queueName,ingressEnabled,egressEnabled,accessType,maxMsgSpoolUsage,eventMsgSpoolUsageThreshold,owner,permission,maxBindCount,eventBindCountThreshold,maxMsgSize,maxDeliveredUnackedMsgsPerFlow,deadMsgQueue,deliveryCountEnabled,deliveryDelay,respectMsgPriorityEnabled,respectTtlEnabled,maxTtl,redeliveryEnabled,maxRedeliveryCount,rejectMsgToSenderOnDiscardBehavior,rejectLowPriorityMsgEnabled,rejectLowPriorityMsgLimit,eventRejectLowPriorityMsgLimitThreshold,consumerAckPropagationEnabled"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "Session",
+              "value": "JsTrmHs1iGnQr0F0l6BP8H-_xnUBnuJwqYgwJ4Heaw8",
+              "path": "/SEMP",
+              "domain": "managementconsole-solace-pprd.alstom.hub",
+              "expires": "2024-01-05T16:26:37.392Z",
+              "httpOnly": true,
+              "secure": true,
+              "sameSite": "Strict"
+            }
+          ],
+          "headersSize": 1267,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Cache-Control",
+              "value": "no-store"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Content-Security-Policy",
+              "value": "default-src 'self'; object-src 'none'; frame-ancestors 'none'; form-action 'self'; upgrade-insecure-requests"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Date",
+              "value": "Wed, 06 Dec 2023 16:35:33 GMT"
+            },
+            {
+              "name": "Server",
+              "value": ""
+            },
+            {
+              "name": "Strict-Transport-Security",
+              "value": "max-age=31536000"
+            },
+            {
+              "name": "Transfer-Encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 1943,
+            "mimeType": "application/json",
+            "compression": 1291,
+            "text": "{\n    \"data\":{\n        \"accessType\":\"exclusive\",\n        \"consumerAckPropagationEnabled\":true,\n        \"deadMsgQueue\":\"#DEAD_MSG_QUEUE\",\n        \"deliveryCountEnabled\":false,\n        \"deliveryDelay\":0,\n        \"egressEnabled\":true,\n        \"eventBindCountThreshold\":{\n            \"clearPercent\":60,\n            \"setPercent\":80\n        },\n        \"eventMsgSpoolUsageThreshold\":{\n            \"clearPercent\":18,\n            \"setPercent\":25\n        },\n        \"eventRejectLowPriorityMsgLimitThreshold\":{\n            \"clearPercent\":60,\n            \"setPercent\":80\n        },\n        \"ingressEnabled\":true,\n        \"maxBindCount\":1000,\n        \"maxDeliveredUnackedMsgsPerFlow\":10000,\n        \"maxMsgSize\":10000000,\n        \"maxMsgSpoolUsage\":5000,\n        \"maxRedeliveryCount\":0,\n        \"maxTtl\":0,\n        \"msgVpnName\":\"alstom-pre-prod\",\n        \"owner\":\"\",\n        \"permission\":\"consume\",\n        \"queueName\":\"test2\",\n        \"redeliveryEnabled\":true,\n        \"rejectLowPriorityMsgEnabled\":false,\n        \"rejectLowPriorityMsgLimit\":0,\n        \"rejectMsgToSenderOnDiscardBehavior\":\"when-queue-enabled\",\n        \"respectMsgPriorityEnabled\":false,\n        \"respectTtlEnabled\":false\n    },\n    \"links\":{},\n    \"meta\":{\n        \"request\":{\n            \"method\":\"GET\",\n            \"uri\":\"https://managementconsole-solace-pprd.alstom.hub/SEMP/v2/__private_config__/msgVpns/alstom-pre-prod/queues/test2?select=msgVpnName,queueName,ingressEnabled,egressEnabled,accessType,maxMsgSpoolUsage,eventMsgSpoolUsageThreshold,owner,permission,maxBindCount,eventBindCountThreshold,maxMsgSize,maxDeliveredUnackedMsgsPerFlow,deadMsgQueue,deliveryCountEnabled,deliveryDelay,respectMsgPriorityEnabled,respectTtlEnabled,maxTtl,redeliveryEnabled,maxRedeliveryCount,rejectMsgToSenderOnDiscardBehavior,rejectLowPriorityMsgEnabled,rejectLowPriorityMsgLimit,eventRejectLowPriorityMsgLimitThreshold,consumerAckPropagationEnabled\"\n        },\n        \"responseCode\":200\n    }\n}"
+          },
+          "redirectURL": "",
+          "headersSize": 468,
+          "bodySize": 652,
+          "_transferSize": 1120,
+          "_error": null
+        },
+        "serverIPAddress": "10.242.54.6",
+        "startedDateTime": "2023-12-06T16:35:33.593Z",
+        "time": 209.01999999978216,
+        "timings": {
+          "blocked": 10.752999999927182,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.12299999999999978,
+          "wait": 197.47499999983873,
+          "receive": 0.6690000000162399,
+          "_blocked_queueing": 8.088999999927182,
+          "_blocked_proxy": 0.6259999999999999
+        }
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "c._end",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 1,
+                "columnNumber": 1573
+              },
+              {
+                "functionName": "c.end",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 1,
+                "columnNumber": 314
+              },
+              {
+                "functionName": "",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 1,
+                "columnNumber": 13357
+              },
+              {
+                "functionName": "t._execute",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 28126
+              },
+              {
+                "functionName": "i._resolveFromExecutor",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22097
+              },
+              {
+                "functionName": "i",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 14455
+              },
+              {
+                "functionName": "r.callApi",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 1,
+                "columnNumber": 13329
+              },
+              {
+                "functionName": "getMsgVpnQueueWithHttpInfo",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 10,
+                "columnNumber": 17417
+              },
+              {
+                "functionName": "getMsgVpnQueue",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 10,
+                "columnNumber": 17544
+              },
+              {
+                "functionName": "",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 20,
+                "columnNumber": 4346
+              },
+              {
+                "functionName": "t._execute",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 28126
+              },
+              {
+                "functionName": "i._resolveFromExecutor",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22097
+              },
+              {
+                "functionName": "i",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 14455
+              },
+              {
+                "functionName": "e.getEntityDetails",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 20,
+                "columnNumber": 3837
+              },
+              {
+                "functionName": "e.getObjectDetails",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 18,
+                "columnNumber": 1900
+              },
+              {
+                "functionName": "e.update",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 6,
+                "columnNumber": 5674
+              },
+              {
+                "functionName": "e.handleCustomeValidateResult",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 6,
+                "columnNumber": 5385
+              },
+              {
+                "functionName": "",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 6,
+                "columnNumber": 4705
+              },
+              {
+                "functionName": "r",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 6,
+                "columnNumber": 17219
+              },
+              {
+                "functionName": "i._settlePromiseFromHandler",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22500
+              },
+              {
+                "functionName": "i._settlePromise",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 23303
+              },
+              {
+                "functionName": "i._settlePromise0",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 24004
+              },
+              {
+                "functionName": "i._settlePromises",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 25334
+              },
+              {
+                "functionName": "i._fulfill",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 24375
+              },
+              {
+                "functionName": "i._settlePromise",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 23503
+              },
+              {
+                "functionName": "i._settlePromise0",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 24004
+              },
+              {
+                "functionName": "i._settlePromises",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 25334
+              },
+              {
+                "functionName": "i._fulfill",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 24375
+              },
+              {
+                "functionName": "i._resolveCallback",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 21247
+              },
+              {
+                "functionName": "i._settlePromiseFromHandler",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22655
+              },
+              {
+                "functionName": "i._settlePromise",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 23303
+              },
+              {
+                "functionName": "i._settlePromise0",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 24004
+              },
+              {
+                "functionName": "i._settlePromises",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 25334
+              },
+              {
+                "functionName": "i._fulfill",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 24375
+              },
+              {
+                "functionName": "i._resolveCallback",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 21247
+              },
+              {
+                "functionName": "i._settlePromiseFromHandler",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22655
+              },
+              {
+                "functionName": "i._settlePromise",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 23303
+              },
+              {
+                "functionName": "i._settlePromise0",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 24004
+              },
+              {
+                "functionName": "i._settlePromises",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 25334
+              },
+              {
+                "functionName": "i._fulfill",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 24375
+              },
+              {
+                "functionName": "a._resolve",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 28789
+              },
+              {
+                "functionName": "a._promiseFulfilled",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 29137
+              },
+              {
+                "functionName": "i._settlePromise",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 23405
+              },
+              {
+                "functionName": "i._settlePromise0",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 24004
+              },
+              {
+                "functionName": "i._settlePromises",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 25334
+              },
+              {
+                "functionName": "i._fulfill",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 24375
+              },
+              {
+                "functionName": "i._resolveCallback",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 21247
+              },
+              {
+                "functionName": "i._settlePromiseFromHandler",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22655
+              },
+              {
+                "functionName": "i._settlePromise",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 23303
+              },
+              {
+                "functionName": "i._settlePromise0",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 24004
+              },
+              {
+                "functionName": "i._settlePromises",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 25334
+              },
+              {
+                "functionName": "i._fulfill",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 24375
+              },
+              {
+                "functionName": "a._resolve",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 28789
+              },
+              {
+                "functionName": "a._promiseFulfilled",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 29137
+              },
+              {
+                "functionName": "i._settlePromise",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 23405
+              },
+              {
+                "functionName": "i._settlePromise0",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 24004
+              },
+              {
+                "functionName": "i._settlePromises",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 25334
+              },
+              {
+                "functionName": "r._drainQueue",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 12686
+              },
+              {
+                "functionName": "r._drainQueues",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 12747
+              },
+              {
+                "functionName": "drainQueues",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 10776
+              },
+              {
+                "functionName": "",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 3,
+                "columnNumber": 545
+              },
+              {
+                "functionName": "",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 3,
+                "columnNumber": 654
+              },
+              {
+                "functionName": "c",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 1,
+                "columnNumber": 24483
+              }
+            ],
+            "parent": {
+              "description": "characterData",
+              "callFrames": [
+                {
+                  "functionName": "n",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 1,
+                  "columnNumber": 24684
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 1,
+                  "columnNumber": 24852
+                },
+                {
+                  "functionName": "T",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 3,
+                  "columnNumber": 360
+                },
+                {
+                  "functionName": "then",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 3,
+                  "columnNumber": 2031
+                },
+                {
+                  "functionName": "r",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 6,
+                  "columnNumber": 6575
+                },
+                {
+                  "functionName": "r._queueTick",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 4,
+                  "columnNumber": 12932
+                },
+                {
+                  "functionName": "o",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 4,
+                  "columnNumber": 10926
+                },
+                {
+                  "functionName": "h.hasDevTools.r.invoke",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 4,
+                  "columnNumber": 12186
+                },
+                {
+                  "functionName": "i._then",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 5,
+                  "columnNumber": 18541
+                },
+                {
+                  "functionName": "i.then",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 5,
+                  "columnNumber": 16416
+                },
+                {
+                  "functionName": "t.validate",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 19,
+                  "columnNumber": 25192
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "12",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                  "lineNumber": 6,
+                  "columnNumber": 4618
+                }
+              ],
+              "parent": {
+                "description": "setTimeout",
+                "callFrames": [
+                  {
+                    "functionName": "e.submit",
+                    "scriptId": "12",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                    "lineNumber": 6,
+                    "columnNumber": 4594
+                  },
+                  {
+                    "functionName": "t.evaluate",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 8,
+                    "columnNumber": 15992
+                  },
+                  {
+                    "functionName": "e.callSource",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 10,
+                    "columnNumber": 18123
+                  },
+                  {
+                    "functionName": "e.handleEvent",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 10,
+                    "columnNumber": 18283
+                  },
+                  {
+                    "functionName": "e.handleEvent",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 9,
+                    "columnNumber": 5793
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "xhr",
+        "cache": {},
+        "connection": "6153",
+        "request": {
+          "method": "GET",
+          "url": "https://managementconsole-solace-pprd.alstom.hub/SEMP/v2/__private_config__/msgVpns/alstom-pre-prod/queues/test2?select=msgVpnName,queueName,ingressEnabled,egressEnabled,accessType,maxMsgSpoolUsage,eventMsgSpoolUsageThreshold,owner,permission,maxBindCount,eventBindCountThreshold,maxMsgSize,maxDeliveredUnackedMsgsPerFlow,deadMsgQueue,deliveryCountEnabled,deliveryDelay,respectMsgPriorityEnabled,respectTtlEnabled,maxTtl,redeliveryEnabled,maxRedeliveryCount,rejectMsgToSenderOnDiscardBehavior,rejectLowPriorityMsgEnabled,rejectLowPriorityMsgLimit,eventRejectLowPriorityMsgLimitThreshold,consumerAckPropagationEnabled",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "application/json"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.9"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Cookie",
+              "value": "Session=JsTrmHs1iGnQr0F0l6BP8H-_xnUBnuJwqYgwJ4Heaw8"
+            },
+            {
+              "name": "Host",
+              "value": "managementconsole-solace-pprd.alstom.hub"
+            },
+            {
+              "name": "Referer",
+              "value": "https://managementconsole-solace-pprd.alstom.hub/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-origin"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "X-Requested-With",
+              "value": "XMLHttpRequest"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "select",
+              "value": "msgVpnName,queueName,ingressEnabled,egressEnabled,accessType,maxMsgSpoolUsage,eventMsgSpoolUsageThreshold,owner,permission,maxBindCount,eventBindCountThreshold,maxMsgSize,maxDeliveredUnackedMsgsPerFlow,deadMsgQueue,deliveryCountEnabled,deliveryDelay,respectMsgPriorityEnabled,respectTtlEnabled,maxTtl,redeliveryEnabled,maxRedeliveryCount,rejectMsgToSenderOnDiscardBehavior,rejectLowPriorityMsgEnabled,rejectLowPriorityMsgLimit,eventRejectLowPriorityMsgLimitThreshold,consumerAckPropagationEnabled"
+            }
+          ],
+          "cookies": [
+            {
+              "name": "Session",
+              "value": "JsTrmHs1iGnQr0F0l6BP8H-_xnUBnuJwqYgwJ4Heaw8",
+              "path": "/SEMP",
+              "domain": "managementconsole-solace-pprd.alstom.hub",
+              "expires": "2024-01-05T16:26:37.392Z",
+              "httpOnly": true,
+              "secure": true,
+              "sameSite": "Strict"
+            }
+          ],
+          "headersSize": 1267,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Cache-Control",
+              "value": "no-store"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Content-Security-Policy",
+              "value": "default-src 'self'; object-src 'none'; frame-ancestors 'none'; form-action 'self'; upgrade-insecure-requests"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Date",
+              "value": "Wed, 06 Dec 2023 16:35:43 GMT"
+            },
+            {
+              "name": "Server",
+              "value": ""
+            },
+            {
+              "name": "Strict-Transport-Security",
+              "value": "max-age=31536000"
+            },
+            {
+              "name": "Transfer-Encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "X-Content-Type-Options",
+              "value": "nosniff"
+            },
+            {
+              "name": "X-Frame-Options",
+              "value": "DENY"
+            },
+            {
+              "name": "X-XSS-Protection",
+              "value": "1; mode=block"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 1943,
+            "mimeType": "application/json",
+            "compression": 1291,
+            "text": "{\n    \"data\":{\n        \"accessType\":\"exclusive\",\n        \"consumerAckPropagationEnabled\":true,\n        \"deadMsgQueue\":\"#DEAD_MSG_QUEUE\",\n        \"deliveryCountEnabled\":false,\n        \"deliveryDelay\":0,\n        \"egressEnabled\":true,\n        \"eventBindCountThreshold\":{\n            \"clearPercent\":60,\n            \"setPercent\":80\n        },\n        \"eventMsgSpoolUsageThreshold\":{\n            \"clearPercent\":18,\n            \"setPercent\":25\n        },\n        \"eventRejectLowPriorityMsgLimitThreshold\":{\n            \"clearPercent\":60,\n            \"setPercent\":80\n        },\n        \"ingressEnabled\":true,\n        \"maxBindCount\":1000,\n        \"maxDeliveredUnackedMsgsPerFlow\":10000,\n        \"maxMsgSize\":10000000,\n        \"maxMsgSpoolUsage\":5000,\n        \"maxRedeliveryCount\":0,\n        \"maxTtl\":0,\n        \"msgVpnName\":\"alstom-pre-prod\",\n        \"owner\":\"\",\n        \"permission\":\"consume\",\n        \"queueName\":\"test2\",\n        \"redeliveryEnabled\":true,\n        \"rejectLowPriorityMsgEnabled\":false,\n        \"rejectLowPriorityMsgLimit\":0,\n        \"rejectMsgToSenderOnDiscardBehavior\":\"when-queue-enabled\",\n        \"respectMsgPriorityEnabled\":false,\n        \"respectTtlEnabled\":false\n    },\n    \"links\":{},\n    \"meta\":{\n        \"request\":{\n            \"method\":\"GET\",\n            \"uri\":\"https://managementconsole-solace-pprd.alstom.hub/SEMP/v2/__private_config__/msgVpns/alstom-pre-prod/queues/test2?select=msgVpnName,queueName,ingressEnabled,egressEnabled,accessType,maxMsgSpoolUsage,eventMsgSpoolUsageThreshold,owner,permission,maxBindCount,eventBindCountThreshold,maxMsgSize,maxDeliveredUnackedMsgsPerFlow,deadMsgQueue,deliveryCountEnabled,deliveryDelay,respectMsgPriorityEnabled,respectTtlEnabled,maxTtl,redeliveryEnabled,maxRedeliveryCount,rejectMsgToSenderOnDiscardBehavior,rejectLowPriorityMsgEnabled,rejectLowPriorityMsgLimit,eventRejectLowPriorityMsgLimitThreshold,consumerAckPropagationEnabled\"\n        },\n        \"responseCode\":200\n    }\n}"
+          },
+          "redirectURL": "",
+          "headersSize": 468,
+          "bodySize": 652,
+          "_transferSize": 1120,
+          "_error": null
+        },
+        "serverIPAddress": "10.242.54.6",
+        "startedDateTime": "2023-12-06T16:35:43.740Z",
+        "time": 214.65600000010454,
+        "timings": {
+          "blocked": 3.5240000001734297,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.1549999999999998,
+          "wait": 210.44000000003635,
+          "receive": 0.5369999998947605,
+          "_blocked_queueing": 1.0120000001734297,
+          "_blocked_proxy": 1.572
+        }
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "c._end",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 1,
+                "columnNumber": 1573
+              },
+              {
+                "functionName": "c.end",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 1,
+                "columnNumber": 314
+              },
+              {
+                "functionName": "",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 1,
+                "columnNumber": 13357
+              },
+              {
+                "functionName": "t._execute",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 28126
+              },
+              {
+                "functionName": "i._resolveFromExecutor",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22097
+              },
+              {
+                "functionName": "i",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 14455
+              },
+              {
+                "functionName": "r.callApi",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 1,
+                "columnNumber": 13329
+              },
+              {
+                "functionName": "updateMsgVpnQueueWithHttpInfo",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 15,
+                "columnNumber": 7561
+              },
+              {
+                "functionName": "updateMsgVpnQueue",
+                "scriptId": "14",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                "lineNumber": 15,
+                "columnNumber": 7695
+              },
+              {
+                "functionName": "",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 20,
+                "columnNumber": 6209
+              },
+              {
+                "functionName": "t._execute",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 28126
+              },
+              {
+                "functionName": "i._resolveFromExecutor",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22097
+              },
+              {
+                "functionName": "i",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 14455
+              },
+              {
+                "functionName": "e.updateEntity",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 20,
+                "columnNumber": 5732
+              },
+              {
+                "functionName": "",
+                "scriptId": "12",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                "lineNumber": 18,
+                "columnNumber": 10190
+              },
+              {
+                "functionName": "r",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 6,
+                "columnNumber": 17219
+              },
+              {
+                "functionName": "h",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 6,
+                "columnNumber": 4609
+              },
+              {
+                "functionName": "l",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 6,
+                "columnNumber": 4442
+              },
+              {
+                "functionName": "r",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 6,
+                "columnNumber": 17219
+              },
+              {
+                "functionName": "i._settlePromiseFromHandler",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 22500
+              },
+              {
+                "functionName": "i._settlePromise",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 23303
+              },
+              {
+                "functionName": "i._settlePromiseCtx",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 5,
+                "columnNumber": 23811
+              },
+              {
+                "functionName": "r._drainQueue",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 12669
+              },
+              {
+                "functionName": "r._drainQueues",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 12747
+              },
+              {
+                "functionName": "drainQueues",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 4,
+                "columnNumber": 10776
+              },
+              {
+                "functionName": "",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 3,
+                "columnNumber": 545
+              },
+              {
+                "functionName": "",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 3,
+                "columnNumber": 654
+              },
+              {
+                "functionName": "c",
+                "scriptId": "11",
+                "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                "lineNumber": 1,
+                "columnNumber": 24483
+              }
+            ],
+            "parent": {
+              "description": "characterData",
+              "callFrames": [
+                {
+                  "functionName": "n",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 1,
+                  "columnNumber": 24684
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 1,
+                  "columnNumber": 24852
+                },
+                {
+                  "functionName": "T",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 3,
+                  "columnNumber": 360
+                },
+                {
+                  "functionName": "then",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 3,
+                  "columnNumber": 2031
+                },
+                {
+                  "functionName": "r",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 6,
+                  "columnNumber": 6575
+                },
+                {
+                  "functionName": "r._queueTick",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 4,
+                  "columnNumber": 12932
+                },
+                {
+                  "functionName": "s",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 4,
+                  "columnNumber": 10988
+                },
+                {
+                  "functionName": "h.hasDevTools.r.settlePromises",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 4,
+                  "columnNumber": 12309
+                },
+                {
+                  "functionName": "i._fulfill",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 5,
+                  "columnNumber": 24395
+                },
+                {
+                  "functionName": "i._resolveCallback",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 5,
+                  "columnNumber": 21247
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "11",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                  "lineNumber": 5,
+                  "columnNumber": 22122
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "14",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                  "lineNumber": 1,
+                  "columnNumber": 13487
+                },
+                {
+                  "functionName": "c.callback",
+                  "scriptId": "14",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                  "lineNumber": 0,
+                  "columnNumber": 31399
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "14",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                  "lineNumber": 0,
+                  "columnNumber": 28386
+                },
+                {
+                  "functionName": "n.emit",
+                  "scriptId": "14",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                  "lineNumber": 0,
+                  "columnNumber": 26092
+                },
+                {
+                  "functionName": "t.onreadystatechange",
+                  "scriptId": "14",
+                  "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                  "lineNumber": 1,
+                  "columnNumber": 665
+                }
+              ],
+              "parent": {
+                "description": "XMLHttpRequest.send",
+                "callFrames": [
+                  {
+                    "functionName": "c._end",
+                    "scriptId": "14",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                    "lineNumber": 1,
+                    "columnNumber": 1573
+                  },
+                  {
+                    "functionName": "c.end",
+                    "scriptId": "14",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                    "lineNumber": 1,
+                    "columnNumber": 314
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "14",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                    "lineNumber": 1,
+                    "columnNumber": 13357
+                  },
+                  {
+                    "functionName": "t._execute",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 4,
+                    "columnNumber": 28126
+                  },
+                  {
+                    "functionName": "i._resolveFromExecutor",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 22097
+                  },
+                  {
+                    "functionName": "i",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 14455
+                  },
+                  {
+                    "functionName": "r.callApi",
+                    "scriptId": "14",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                    "lineNumber": 1,
+                    "columnNumber": 13329
+                  },
+                  {
+                    "functionName": "getMsgVpnQueueWithHttpInfo",
+                    "scriptId": "14",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                    "lineNumber": 10,
+                    "columnNumber": 17417
+                  },
+                  {
+                    "functionName": "getMsgVpnQueue",
+                    "scriptId": "14",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/semp-client-bundle-325c4ed380.js",
+                    "lineNumber": 10,
+                    "columnNumber": 17544
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "12",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                    "lineNumber": 20,
+                    "columnNumber": 4346
+                  },
+                  {
+                    "functionName": "t._execute",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 4,
+                    "columnNumber": 28126
+                  },
+                  {
+                    "functionName": "i._resolveFromExecutor",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 22097
+                  },
+                  {
+                    "functionName": "i",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 14455
+                  },
+                  {
+                    "functionName": "e.getEntityDetails",
+                    "scriptId": "12",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                    "lineNumber": 20,
+                    "columnNumber": 3837
+                  },
+                  {
+                    "functionName": "e.getObjectDetails",
+                    "scriptId": "12",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                    "lineNumber": 18,
+                    "columnNumber": 1900
+                  },
+                  {
+                    "functionName": "e.update",
+                    "scriptId": "12",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                    "lineNumber": 6,
+                    "columnNumber": 5674
+                  },
+                  {
+                    "functionName": "e.handleCustomeValidateResult",
+                    "scriptId": "12",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                    "lineNumber": 6,
+                    "columnNumber": 5385
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "12",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                    "lineNumber": 6,
+                    "columnNumber": 4705
+                  },
+                  {
+                    "functionName": "r",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 6,
+                    "columnNumber": 17219
+                  },
+                  {
+                    "functionName": "i._settlePromiseFromHandler",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 22500
+                  },
+                  {
+                    "functionName": "i._settlePromise",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 23303
+                  },
+                  {
+                    "functionName": "i._settlePromise0",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 24004
+                  },
+                  {
+                    "functionName": "i._settlePromises",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 25334
+                  },
+                  {
+                    "functionName": "i._fulfill",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 24375
+                  },
+                  {
+                    "functionName": "i._settlePromise",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 23503
+                  },
+                  {
+                    "functionName": "i._settlePromise0",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 24004
+                  },
+                  {
+                    "functionName": "i._settlePromises",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 25334
+                  },
+                  {
+                    "functionName": "i._fulfill",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 24375
+                  },
+                  {
+                    "functionName": "i._resolveCallback",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 21247
+                  },
+                  {
+                    "functionName": "i._settlePromiseFromHandler",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 22655
+                  },
+                  {
+                    "functionName": "i._settlePromise",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 23303
+                  },
+                  {
+                    "functionName": "i._settlePromise0",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 24004
+                  },
+                  {
+                    "functionName": "i._settlePromises",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 25334
+                  },
+                  {
+                    "functionName": "i._fulfill",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 24375
+                  },
+                  {
+                    "functionName": "i._resolveCallback",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 21247
+                  },
+                  {
+                    "functionName": "i._settlePromiseFromHandler",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 22655
+                  },
+                  {
+                    "functionName": "i._settlePromise",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 23303
+                  },
+                  {
+                    "functionName": "i._settlePromise0",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 24004
+                  },
+                  {
+                    "functionName": "i._settlePromises",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 25334
+                  },
+                  {
+                    "functionName": "i._fulfill",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 24375
+                  },
+                  {
+                    "functionName": "a._resolve",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 28789
+                  },
+                  {
+                    "functionName": "a._promiseFulfilled",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 29137
+                  },
+                  {
+                    "functionName": "i._settlePromise",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 23405
+                  },
+                  {
+                    "functionName": "i._settlePromise0",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 24004
+                  },
+                  {
+                    "functionName": "i._settlePromises",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 25334
+                  },
+                  {
+                    "functionName": "i._fulfill",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 24375
+                  },
+                  {
+                    "functionName": "i._resolveCallback",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 21247
+                  },
+                  {
+                    "functionName": "i._settlePromiseFromHandler",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 22655
+                  },
+                  {
+                    "functionName": "i._settlePromise",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 23303
+                  },
+                  {
+                    "functionName": "i._settlePromise0",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 24004
+                  },
+                  {
+                    "functionName": "i._settlePromises",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 25334
+                  },
+                  {
+                    "functionName": "i._fulfill",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 24375
+                  },
+                  {
+                    "functionName": "a._resolve",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 28789
+                  },
+                  {
+                    "functionName": "a._promiseFulfilled",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 29137
+                  },
+                  {
+                    "functionName": "i._settlePromise",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 23405
+                  },
+                  {
+                    "functionName": "i._settlePromise0",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 24004
+                  },
+                  {
+                    "functionName": "i._settlePromises",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 5,
+                    "columnNumber": 25334
+                  },
+                  {
+                    "functionName": "r._drainQueue",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 4,
+                    "columnNumber": 12686
+                  },
+                  {
+                    "functionName": "r._drainQueues",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 4,
+                    "columnNumber": 12747
+                  },
+                  {
+                    "functionName": "drainQueues",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 4,
+                    "columnNumber": 10776
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 3,
+                    "columnNumber": 545
+                  },
+                  {
+                    "functionName": "",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 3,
+                    "columnNumber": 654
+                  },
+                  {
+                    "functionName": "c",
+                    "scriptId": "11",
+                    "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                    "lineNumber": 1,
+                    "columnNumber": 24483
+                  }
+                ],
+                "parent": {
+                  "description": "characterData",
+                  "callFrames": [
+                    {
+                      "functionName": "n",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 1,
+                      "columnNumber": 24684
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 1,
+                      "columnNumber": 24852
+                    },
+                    {
+                      "functionName": "T",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 3,
+                      "columnNumber": 360
+                    },
+                    {
+                      "functionName": "then",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 3,
+                      "columnNumber": 2031
+                    },
+                    {
+                      "functionName": "r",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 6,
+                      "columnNumber": 6575
+                    },
+                    {
+                      "functionName": "r._queueTick",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 4,
+                      "columnNumber": 12932
+                    },
+                    {
+                      "functionName": "o",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 4,
+                      "columnNumber": 10926
+                    },
+                    {
+                      "functionName": "h.hasDevTools.r.invoke",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 4,
+                      "columnNumber": 12186
+                    },
+                    {
+                      "functionName": "i._then",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 5,
+                      "columnNumber": 18541
+                    },
+                    {
+                      "functionName": "i.then",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 5,
+                      "columnNumber": 16416
+                    },
+                    {
+                      "functionName": "t.validate",
+                      "scriptId": "11",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                      "lineNumber": 19,
+                      "columnNumber": 25192
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "12",
+                      "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                      "lineNumber": 6,
+                      "columnNumber": 4618
+                    }
+                  ],
+                  "parent": {
+                    "description": "setTimeout",
+                    "callFrames": [
+                      {
+                        "functionName": "e.submit",
+                        "scriptId": "12",
+                        "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/app-bundle-cd16b6634c.js",
+                        "lineNumber": 6,
+                        "columnNumber": 4594
+                      },
+                      {
+                        "functionName": "t.evaluate",
+                        "scriptId": "11",
+                        "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                        "lineNumber": 8,
+                        "columnNumber": 15992
+                      },
+                      {
+                        "functionName": "e.callSource",
+                        "scriptId": "11",
+                        "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                        "lineNumber": 10,
+                        "columnNumber": 18123
+                      },
+                      {
+                        "functionName": "e.handleEvent",
+                        "scriptId": "11",
+                        "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                        "lineNumber": 10,
+                        "columnNumber": 18283
+                      },
+                      {
+                        "functionName": "e.handleEvent",
+                        "scriptId": "11",
+                        "url": "https://managementconsole-solace-pprd.alstom.hub/scripts/vendor-bundle-a180647262.js",
+                        "lineNumber": 9,
+                        "columnNumber": 5793
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "xhr",
+        "cache": {},
+        "connection": "6153",
+        "request": {
+          "method": "PATCH",
+          "url": "https://managementconsole-solace-pprd.alstom.hub/SEMP/v2/__private_config__/msgVpns/alstom-pre-prod/queues/test2",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "application/json"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US,en;q=0.9"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "823"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Cookie",
+              "value": "Session=JsTrmHs1iGnQr0F0l6BP8H-_xnUBnuJwqYgwJ4Heaw8"
+            },
+            {
+              "name": "Host",
+              "value": "managementconsole-solace-pprd.alstom.hub"
+            },
+            {
+              "name": "Origin",
+              "value": "https://managementconsole-solace-pprd.alstom.hub"
+            },
+            {
+              "name": "Referer",
+              "value": "https://managementconsole-solace-pprd.alstom.hub/"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-origin"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "X-Requested-With",
+              "value": "XMLHttpRequest"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [],
+          "cookies": [
+            {
+              "name": "Session",
+              "value": "JsTrmHs1iGnQr0F0l6BP8H-_xnUBnuJwqYgwJ4Heaw8",
+              "path": "/SEMP",
+              "domain": "managementconsole-solace-pprd.alstom.hub",
+              "expires": "2024-01-05T16:26:37.392Z",
+              "httpOnly": true,
+              "secure": true,
+              "sameSite": "Strict"
+            }
+          ],
+          "headersSize": 844,
+          "bodySize": 823,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"accessType\":\"exclusive\",\"consumerAckPropagationEnabled\":true,\"deadMsgQueue\":\"#DEAD_MSG_QUEUE\",\"deliveryCountEnabled\":false,\"deliveryDelay\":0,\"egressEnabled\":true,\"eventBindCountThreshold\":{\"clearPercent\":60,\"setPercent\":80},\"eventMsgSpoolUsageThreshold\":{\"clearPercent\":18,\"setPercent\":25},\"eventRejectLowPriorityMsgLimitThreshold\":{\"clearPercent\":60,\"setPercent\":80},\"ingressEnabled\":true,\"maxBindCount\":1000,\"maxDeliveredUnackedMsgsPerFlow\":10000,\"maxMsgSize\":10000000,\"maxMsgSpoolUsage\":50,\"maxRedeliveryCount\":0,\"maxTtl\":0,\"msgVpnName\":\"alstom-pre-prod\",\"owner\":\"\",\"permission\":\"consume\",\"queueName\":\"test2\",\"redeliveryEnabled\":true,\"rejectLowPriorityMsgEnabled\":false,\"rejectLowPriorityMsgLimit\":0,\"rejectMsgToSenderOnDiscardBehavior\":\"when-queue-enabled\",\"respectMsgPriorityEnabled\":false,\"respectTtlEnabled\":false}"
+          }
+        },
+        "response": {
+          "status": 403,
+          "statusText": "Forbidden",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "2513"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/html"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 2513,
+            "mimeType": "text/html",
+            "compression": 0,
+            "text": "<!DOCTYPE html>\n<html>\n<head>\n<title> 403 Error - Message</title>\n<meta content='description' name='Error Page'>\n<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>\n<meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>\n<style>\n  html {\n    height: 100%;\n    display: block;\n  }\n  body {\n    margin: 0;\n    padding: 0;\n    min-width: 768px;\n    font-size: 14px;\n    font-weight: 300;\n    background-repeat: no-repeat;\n    background-attachment: fixed;\n    line-height: 1.231;\n    background-color: #FFF;\n    background: linear-gradient(to bottom,#fff 0,#FFF,#fff);\n    background: -webkit-gradient(linear,left top,left bottom,from(#FFF),to(#fff));\n    background: -webkit-linear-gradient(top,#FFF,#fff);\n    background: -moz-linear-gradient(top,#FFF,#fff);\n    background: -ms-linear-gradient(top,#FFF,#fff);\n    background: -o-linear-gradient(top,#FFF,#fff);\n  }\n  body {\n    font-family: brandon_text,\"Open Sans\",sans-serif;\n  }\n  div {\n      display: block;\n  }\n  .welcome {\n    position: fixed;\n    top: 0;\n    bottom: 0;\n    left: 0;\n    right: 0;\n    background-color: #EB827D;\n    background-size: 50%;\n    border-top: 4px solid #ff4B00;\n  }\n  .messages, .upgrade {\n    display: flex;\n    flex-direction: column;\n    position: fixed;\n    top: 50px;\n    left: 50%;\n    width: 500px;\n    margin-left: -250px;\n    z-index: 1100;\n  }\n  .error-code {\n    position: fixed;\n    top: 0;\n    bottom: 0;\n    left: 0;\n    right: 0;\n    width: 600px;\n    height: 130px;\n    margin: auto;\n  }\n  .message {\n    position: relative;\n    padding: 10px 10px 10px 15px;\n    color: #fff;\n  }\n  div {\n    display: inline-block;\n    box-sizing: border-box;\n    height: 100%;\n  }\n</style>\n</head>\n<body>\n<div class='ui-view'>\n<div class='welcome'>\n<div class='error-code progress-bar-wrapper'>\n<div class='message'>\n<h1> 403 Response Code</h1>\n<p> Please contact our DXC Technology technical with Request ID: cS5-hv8E-ntrO and Application Name: 08727-managementconsole-solace-pprd.alstom.hub-HTTPS-443-agwHttpsListener </p>\n</div>\n</div>\n</div>\n</div>\n</body>\n</html><!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n"
+          },
+          "redirectURL": "",
+          "headersSize": 97,
+          "bodySize": 2513,
+          "_transferSize": 2610,
+          "_error": null
+        },
+        "serverIPAddress": "10.242.54.6",
+        "startedDateTime": "2023-12-06T16:35:43.958Z",
+        "time": 160.48300000011295,
+        "timings": {
+          "blocked": 1.9840000002694431,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.18899999999999995,
+          "wait": 157.90599999995402,
+          "receive": 0.40399999988949276,
+          "_blocked_queueing": 1.0190000002694433,
+          "_blocked_proxy": 0.6240000000000001
+        }
+      }
+    ]
+  }
+}
